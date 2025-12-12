@@ -1,2 +1,2 @@
-# MyTube
+@MyTube
 MyTube
